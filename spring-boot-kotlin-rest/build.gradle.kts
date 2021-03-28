@@ -2,7 +2,7 @@ import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
 plugins {
     java
-    kotlin("jvm") version "1.4.31"
+    kotlin("jvm") version "1.4.32"
     kotlin("plugin.spring") version "1.4.31"
     kotlin("plugin.serialization") version "1.4.31"
     id("org.springframework.boot") version "2.4.4"
