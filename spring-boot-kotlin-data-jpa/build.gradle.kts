@@ -21,7 +21,7 @@ dependencies {
     implementation("org.springframework.boot:spring-boot-starter-web")
     implementation("com.fasterxml.jackson.module:jackson-module-kotlin")
     implementation("com.h2database:h2:1.4.200")
-    implementation("org.flywaydb:flyway-core:7.7.1")
+    implementation("org.flywaydb:flyway-core:7.7.2")
     testImplementation("org.junit.jupiter:junit-jupiter:5.7.1")
     testImplementation("io.mockk:mockk:1.11.0")
     testImplementation("com.ninja-squad:springmockk:3.0.1")
