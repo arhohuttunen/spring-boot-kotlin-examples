@@ -5,7 +5,7 @@ plugins {
     idea
     kotlin("jvm") version "1.5.10"
     kotlin("plugin.spring") version "1.5.10"
-    kotlin("plugin.jpa") version "1.5.0"
+    kotlin("plugin.jpa") version "1.5.10"
     id("org.springframework.boot") version "2.5.0"
     id("io.spring.dependency-management") version "1.0.11.RELEASE"
 }
