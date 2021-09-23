@@ -18,7 +18,7 @@ dependencies {
     implementation("org.springframework.boot:spring-boot-starter-validation")
     implementation("org.springframework.boot:spring-boot-starter-web")
     implementation("com.fasterxml.jackson.module:jackson-module-kotlin")
-    testImplementation("org.junit.jupiter:junit-jupiter:5.8.0")
+    testImplementation("org.junit.jupiter:junit-jupiter:5.8.1")
     testImplementation("io.mockk:mockk:1.12.0")
     testImplementation("com.ninja-squad:springmockk:3.0.1")
     testImplementation("org.springframework.boot:spring-boot-starter-test")
