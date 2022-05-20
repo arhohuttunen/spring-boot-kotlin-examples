@@ -26,7 +26,7 @@ dependencies {
     testImplementation("io.mockk:mockk:1.12.4")
     testImplementation("com.ninja-squad:springmockk:3.1.1")
     testImplementation("org.springframework.boot:spring-boot-starter-test")
-    testImplementation("org.testcontainers:junit-jupiter:1.17.1")
+    testImplementation("org.testcontainers:junit-jupiter:1.17.2")
     testImplementation("org.testcontainers:postgresql:1.17.1")
     testImplementation("org.postgresql:postgresql:42.3.5")
 }
