@@ -5,7 +5,7 @@ plugins {
     idea
     kotlin("jvm")
     kotlin("plugin.spring")
-    id("org.springframework.boot") version "2.7.5"
+    id("org.springframework.boot") version "3.0.0"
     id("io.spring.dependency-management") version "1.1.0"
 }
 
@@ -31,6 +31,6 @@ tasks.withType<Test> {
 tasks.withType<KotlinCompile> {
     kotlinOptions {
         freeCompilerArgs = listOf("-Xjsr305=strict")
-        jvmTarget = "11"
+        jvmTarget = "17"
     }
 }
