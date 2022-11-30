@@ -23,7 +23,7 @@ dependencies {
     implementation("com.h2database:h2")
     implementation("org.flywaydb:flyway-core")
     testImplementation("org.junit.jupiter:junit-jupiter:5.9.1")
-    testImplementation("io.mockk:mockk:1.13.2")
+    testImplementation("io.mockk:mockk:1.13.3")
     testImplementation("com.ninja-squad:springmockk:3.1.2")
     testImplementation("org.springframework.boot:spring-boot-starter-test")
     testImplementation("org.testcontainers:junit-jupiter:1.17.6")
