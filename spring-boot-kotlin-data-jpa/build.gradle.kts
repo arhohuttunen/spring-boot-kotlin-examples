@@ -24,7 +24,7 @@ dependencies {
     implementation("org.flywaydb:flyway-core")
     testImplementation("org.junit.jupiter:junit-jupiter:5.9.2")
     testImplementation("io.mockk:mockk:1.13.4")
-    testImplementation("com.ninja-squad:springmockk:4.0.1")
+    testImplementation("com.ninja-squad:springmockk:4.0.2")
     testImplementation("org.springframework.boot:spring-boot-starter-test")
     testImplementation("org.testcontainers:junit-jupiter:1.17.6")
     testImplementation("org.testcontainers:postgresql:1.17.6")
