@@ -27,7 +27,7 @@ dependencies {
     testImplementation("com.ninja-squad:springmockk:4.0.2")
     testImplementation("org.springframework.boot:spring-boot-starter-test")
     testImplementation("org.testcontainers:junit-jupiter:1.19.0")
-    testImplementation("org.testcontainers:postgresql:1.18.3")
+    testImplementation("org.testcontainers:postgresql:1.19.0")
     testImplementation("org.postgresql:postgresql:42.6.0")
 }
 
