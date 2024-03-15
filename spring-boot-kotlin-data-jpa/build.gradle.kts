@@ -29,7 +29,7 @@ dependencies {
     testImplementation("org.springframework.boot:spring-boot-starter-test")
     testImplementation("org.testcontainers:junit-jupiter:1.19.7")
     testImplementation("org.testcontainers:postgresql:1.19.7")
-    testImplementation("org.postgresql:postgresql:42.7.2")
+    testImplementation("org.postgresql:postgresql:42.7.3")
 }
 
 tasks.withType<Test> {
