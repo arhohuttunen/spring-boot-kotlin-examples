@@ -22,7 +22,7 @@ dependencies {
     implementation("com.fasterxml.jackson.module:jackson-module-kotlin")
     implementation("com.h2database:h2")
     implementation("org.flywaydb:flyway-database-postgresql")
-    testImplementation("org.junit.jupiter:junit-jupiter:5.10.2")
+    testImplementation("org.junit.jupiter:junit-jupiter:5.10.3")
     testRuntimeOnly("org.junit.platform:junit-platform-launcher")
     testImplementation("io.mockk:mockk:1.13.11")
     testImplementation("com.ninja-squad:springmockk:4.0.2")
