@@ -21,7 +21,7 @@ dependencies {
     implementation("com.fasterxml.jackson.module:jackson-module-kotlin")
     testImplementation("org.junit.jupiter:junit-jupiter:6.0.0")
     testRuntimeOnly("org.junit.platform:junit-platform-launcher")
-    testImplementation("io.mockk:mockk:1.14.5")
+    testImplementation("io.mockk:mockk:1.14.6")
     testImplementation("com.ninja-squad:springmockk:4.0.2")
     testImplementation("org.springframework.boot:spring-boot-starter-test")
 }
